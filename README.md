@@ -1,0 +1,1 @@
+# cg-project_kruskals_opengl
